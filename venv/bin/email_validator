@@ -1,4 +1,4 @@
-#!/home/student/Plocha/TestOS/venv/bin/python3
+#!/home/student/temp/TestOS/TestOS/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
